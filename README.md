@@ -8,7 +8,7 @@ I'm just trying to be a good FrontEnd Developer Every Day.....
 
 ![](https://camo.githubusercontent.com/f2d0e716a8e526cca817157ea92d64f485c4e372cb77fa42c809e62cca43ef08/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c61726176656c2d4646324432303f7374796c653d666c6174266c6f676f3d6c61726176656c266c6f676f436f6c6f723d7768697465)
 
-<img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-width:100%;">
+<img align="center" alt="Rafa-React" height="100" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-width:100%;">
 
 
 ![Gilbert's GitHub stats](https://github-readme-stats.vercel.app/api?username=TineoGilbert&show_icons=true&theme=tokyonight)
