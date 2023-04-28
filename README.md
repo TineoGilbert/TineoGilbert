@@ -9,7 +9,7 @@
 
 <h2>Operating System:</h2>
 
-<img align="center" alt="Gilbert" height="55" width="45" src="https://seeklogo.com/images/W/windows-10-icon-logo-5BC5C69712-seeklogo.com.png" style="max-width:100%; margin:5%">   <img align="center" alt="Gilbert" height="55" width="45" src="https://seeklogo.com/images/T/tux-logo-AA06C623EC-seeklogo.com.png" style="max-width:100%;">  <img align="center" alt="Gilbert" height="55" width="45" src="https://seeklogo.com/images/K/kali-linux-logo-5A3B1D1555-seeklogo.com.png" style="max-width:100%;">
+<img align="center" alt="Gilbert" height="55" width="45" src="https://seeklogo.com/images/W/windows-10-icon-logo-5BC5C69712-seeklogo.com.png" style="max-width:100%; margin:5%">   <img align="center" alt="Gilbert" height="55" width="45" src="https://seeklogo.com/images/T/tux-logo-AA06C623EC-seeklogo.com.png" style="max-width:100%;">  <img align="center" alt="Gilbert" height="55" width="55" src="https://seeklogo.com/images/K/kali-linux-logo-5A3B1D1555-seeklogo.com.png" style="max-width:100%;">
 
 <h2>Programming languages ​​that I use:</h2>
 
