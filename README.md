@@ -1,5 +1,7 @@
 ### Hello EveryOne! My name's Gilbert, but you can call me Gi. :v:
 
+- Graduated from Systems Engineering, I am currently dedicated to the development of Frontend applications and Systems Analysis, in the same way I have Junior knowledge in the area of ​​cybersecurity (Pentesting).
+
 # I am currently working with: 
 
 
