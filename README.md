@@ -17,7 +17,7 @@
 
 <h2>Database:</h2>
 
-<img align="center" alt="Gilbert" height="55" width="55" src="https://freepngimg.com/thumb/github/65813-google-computer-icons-github-firebase-angularjs-messaging-thumb.png" style="max-width:100%; margin:5%"> <img align="center" alt="Gilbert" height="55" width="55" src="https://www.hostdime.com/kb/hd/files/4161747/48791726/1/1606254481000/MySQL-2.png" style="max-width:100%; margin:5%"> 
+<img align="center" alt="Gilbert" height="55" width="55" src="https://freepngimg.com/thumb/github/65813-google-computer-icons-github-firebase-angularjs-messaging-thumb.png" style="max-width:100%; margin:5%"> <img align="center" alt="Gilbert" height="63" width="63" src="https://www.hostdime.com/kb/hd/files/4161747/48791726/1/1606254481000/MySQL-2.png" style="max-width:100%; margin:5%"> <img align="center" alt="Gilbert" height="70" width="70" src="https://alternative.me/media/256/microsoft-sql-server-icon-q9cwgo05m07x4sfl-c.png" style="max-width:100%; margin:5%">
 
 <h2>Programming languages ​​that I use:</h2>
 
